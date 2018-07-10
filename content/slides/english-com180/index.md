@@ -243,7 +243,7 @@ List of data resources to which the library subscribes
 .right-column[
 
 * Tim Dennis <mailto:timdennis@ucla.edu>
-* Leigh Phan <mailto:leighphan@library.ucla.edu>
+* Leigh Phan <mailto:leighphan@ucla.edu>
 * Data Archive: <https://www.library.ucla.edu/location/social-science-data-archive>
 * Workshops: <https://ucla-data-archive.netlify.com/>
 * These slides:
